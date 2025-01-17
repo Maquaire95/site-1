@@ -31,7 +31,7 @@ header h1 {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #ff00f26b;
+    background-color: #ff00f200;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -55,7 +55,7 @@ header h1 {
 }
 
 .navbar a:hover {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgb(18, 193, 236);
 }
 
 /* Page de garde */
@@ -65,7 +65,7 @@ header h1 {
     align-items: center;
     text-align: center;
     height: 100vh;
-    background: linear-gradient(to bottom right, #ff94c2, #ff4081);
+    background: linear-gradient(to bottom right, #8c00ff, #0077ff);
     color: white;
 }
 
@@ -101,7 +101,7 @@ header h1 {
     display: inline-block;
     padding: 12px 25px;
     font-size: 1em;
-    color: #ff4081;
+    color: #00e1ff;
     background-color: white;
     text-decoration: none;
     border-radius: 25px;
@@ -111,9 +111,9 @@ header h1 {
 }
 
 .landing-page .btn:hover {
-    background-color: #ff80ab;
+    background-color: #00fff2;
     color: white;
-    box-shadow: 0 6px 12px rgba(255, 64, 129, 0.5);
+    box-shadow: 0 6px 12px rgba(64, 226, 255, 0.733);
 }
 
 /* Pied de page */

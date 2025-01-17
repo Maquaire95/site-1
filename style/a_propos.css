@@ -11,11 +11,11 @@ body {
 }
 
 header {
-    background-color: rgb(119, 19, 133);
+    background-color: rgb(145, 18, 138);
     color: white;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(145, 18, 138);
 }
 
 header h1 {
@@ -30,7 +30,7 @@ header h1 {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #ff00f26b;
+    background-color: #1e8ab46b;
 }
 
 .navbar .logo img {
@@ -61,7 +61,7 @@ header h1 {
 .about-intro {
     text-align: center;
     padding: 40px 20px;
-    background-color: #ff94c2;
+    background-color: #00c3ff;
     color: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -123,7 +123,7 @@ header h1 {
 /* Section Valeurs */
 .about-values {
     padding: 40px 20px;
-    background-color: #ff94c2;
+    background-color: #00c3ff;;
     color: white;
     text-align: center;
 }
